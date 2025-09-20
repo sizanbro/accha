@@ -58,7 +58,7 @@ module.exports = {
     ];
     const tile = percentageList[Math.floor(Math.random() * percentageList.length)];
 
-    const backgroundUrl = "https://i.ibb.co/RBRLmRt/Pics-Art-05-14-10-47-00.jpg";
+    const backgroundUrl = "https://i.ibb.co/Mk00t8FC/unblurimageai-unblurimageai-image.jpg";
 
     // Download avatars and background
     const getAvatar = async (id, path) => {
