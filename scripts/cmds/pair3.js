@@ -3,10 +3,10 @@ const fs = require("fs-extra");
 
 module.exports = {
   config: {
-    name: "pair",
+    name: "pair3",
     countDown: 10,
     role: 0,
-    author: "আসল মালিক কে জানিনা",
+    author: "mahim islam",
     shortDescription: {
       en: "Get to know your partner"
     },
@@ -58,7 +58,7 @@ module.exports = {
     ];
     const tile = percentageList[Math.floor(Math.random() * percentageList.length)];
 
-    const backgroundUrl = "https://i.ibb.co/Mk00t8FC/unblurimageai-unblurimageai-image.jpg";
+    const backgroundUrl = "https://i.ibb.co/hRCHk7Hp/mahim.jpg";
 
     // Download avatars and background
     const getAvatar = async (id, path) => {
