@@ -1,9 +1,9 @@
 const { getStreamFromURL } = global.utils;
 module.exports = {
   config: {
-    name: "pair2",
+    name: "pair",
     version: "1.0",
-    author: "Fuck Your Mother ⚡",
+    author: "mahim islam",
     shortDescription: {
       en: "pair Girls 😗",
       vi: ""
